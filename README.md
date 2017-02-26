@@ -14,6 +14,7 @@ Compile and RUN :-
 g++ boy_data_1.cpp
 g++ girl_data_1.cpp
 g++ assignment_1.cpp
+g++ gift.cpp
 g++ assignment_2.cpp
 
 
