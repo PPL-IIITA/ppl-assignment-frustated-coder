@@ -1,2 +1,5 @@
-# ppl-assignment-frustated-coder
-ppl-assignment-frustated-coder created by GitHub Classroom
+PPL ASSIGNMENT 
+LIT2015011 <-->  SHUBHANSHU SINGH
+OPERATING SYSTEM :- UBUNTU 15.10
+BUILT ON :- GEDIT
+DOCUMENTATION TOOL :- doxygen
